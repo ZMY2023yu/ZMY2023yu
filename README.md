@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ZMY2023yu
+- 👋 Hi, I’m @ZMY
 - 👀 I’m interested in Game
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java、Python
 - 💞️ I’m looking to collaborate on study
 - 📫 How to reach me QQ:715487557
 - 😄 Pronouns: zmy
